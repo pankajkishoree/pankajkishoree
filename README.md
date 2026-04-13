@@ -1,16 +1,141 @@
-<h1 align="center">Hi 👋, I'm Pankaj Kishore</h1> <h3 align="center">A passionate student with interest in AI/ML</h3> <p align="left"> <img src="https://media4.giphy.com/media/5k5vZwRFZR5aZeniqb/200.webp?cid=ecf05e47hri1t2rkmjmbvzhbw252d7qbntjfifspoc0sqv80&ep=v1_gifs_search&rid=200.webp&ct=g" alt="pankajKishore" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajKishoree" alt="pankajKishoree" /></a> </p> <p align="left"> <a href=" " target="blank"><img src="https://img.shields.io/twitter/follow/pankajKishore?logo=twitter&style=for-the-badge" alt="panakajkishore" /></a> </p>
+<div align="center">
 
-🌱 I’m currently learning aws
-📫 How to reach me pankajkishore762@gmail.com
+# Hi 👋, I'm Pankaj Kishore
 
-📄 Get my Resume https://drive.google.com/file/d/1XR1ZmBOM0VpYrtehxfNej3CNH1z5K3GY/view?usp=sharing
+### 🤖 AI/ML Engineer in the Making | ☁️ Cloud Enthusiast | 📍 Jamshedpur, JH
 
-<h3 align="left">Connect with me:</h3> <p align="left">  <a href="https://github.com/pankajkishoree" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" alt="pankajKishoree" height="30" width="40" /></a> 
-<a href="https://www.instagram.com/ipankajkishore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ipankajkishore" height="30" width="40" /></a> 
-<a href="https://www.linkedin.com/in/pankajkishoree/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankajKishoree" height="30" width="40" /></a></p> <h3 align="left">
-Languages and Tools:
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.numpy.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/> </a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajKishoree&show_icons=true&locale=en&layout=compact" alt="pankajKishoree" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajKishoree&show_icons=true&locale=en" alt="pankajKishoree" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankajkishoree/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pankajkishoree)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ipankajkishore/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankajkishore762@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XR1ZmBOM0VpYrtehxfNej3CNH1z5K3GY/view?usp=sharing)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```python
+pankaj = {
+    "name"      : "Pankaj Kishore",
+    "degree"    : "B.Tech AI & ML @ Arka Jain University (2022-2026)",
+    "cgpa"      : 7.74,
+    "location"  : "Jamshedpur, Jharkhand, India",
+    "learning"  : ["AWS - Certified Developer Associate (in progress)"],
+    "goal"      : "Entry-level Cloud Engineer / ML Engineer",
+    "interests" : ["Machine Learning", "Computer Vision", "NLP", "Cloud"],
+    "fun_fact"  : "NCC B and C Certificate Holder"
+}
+```
+
+---
+
+## ☁️ Currently Learning — AWS
+
+> 🔄 Actively preparing for **AWS Certified Developer – Associate**
+> to design, deploy, and manage scalable cloud applications.
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)
+
+---
+
+## 🛠️ Tech Stack
+
+**ML / AI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+**Data & Tools**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Customer Churn Prediction
+> Neural network trained on 10,000 credit card records — **85%+ accuracy**
+
+- Data cleaning: encoding, feature scaling, train/test split
+- Deep learning model built with TensorFlow and Keras
+
+`TensorFlow` `Keras` `Scikit-learn` `Pandas` `NumPy` `Google Colab`
+
+---
+
+### 👁️ Real-Time Face & Eye Detection
+> Live webcam detection using classical computer vision — optimized for **low latency**
+
+- Haarcascade classifiers for fast, accurate multi-face detection
+- Smooth real-time video stream handling
+
+`Python` `OpenCV` `NumPy` `Jupyter Notebook`
+
+---
+
+### 🖊️ Interactive Whiteboard Application
+> Feature-rich desktop drawing app with full GUI controls
+
+- Freehand drawing, color picker, pen size slider, eraser
+- Resizable canvas supporting different screen sizes
+
+`Python` `Tkinter`
+
+---
+
+## 💼 Experience & Internships
+
+| Period | Company | Role |
+|---|---|---|
+| Jan 2025 – Feb 2026 | I-Conic Solutions | AR Caller (Full-time) |
+| May – Jul 2025 | Innovate Intern | AI/ML Intern |
+| May – Jun 2024 | Slash Mark IT Startup | ML Intern |
+
+---
+
+## 🏆 Certifications & Achievements
+
+- ☁️ **AWS** — Ultimate AWS Certified Developer Associate
+- 🐍 **Python & AI/ML** — Certified in Python and AI/ML applications
+- 🏅 **Academic Excellence Award** — Recognized by Tata Steel & Usha Martin
+- 🎖️ **NCC B & C Certificate** — Leadership and teamwork (2022–2025)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pankajKishoree&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajKishoree&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajKishoree&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=pankajKishoree&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+<div align="center">
+  <i>"Building intelligent systems, one model at a time — and now scaling them on the cloud"</i>
+  <br><br>
+  <b>Open to opportunities • Let's connect!</b>
+</div>
