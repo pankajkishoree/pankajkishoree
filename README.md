@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kishore</h1> <h3 align="center">A passionate student with interest in AI/ML</h3> <p align="left"> <img src="https://media4.giphy.com/media/5k5vZwRFZR5aZeniqb/200.webp?cid=ecf05e47hri1t2rkmjmbvzhbw252d7qbntjfifspoc0sqv80&ep=v1_gifs_search&rid=200.webp&ct=g" alt="pankajKishore" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajKishoree" alt="pankajKishoree" /></a> </p> <p align="left"> <a href=" " target="blank"><img src="https://img.shields.io/twitter/follow/pankajKishore?logo=twitter&style=for-the-badge" alt="panakajkishore" /></a> </p>
-🔭 I’m currently working on ..
 
-🌱 I’m currently learning AI/ML
-
+🌱 I’m currently learning aws
 📫 How to reach me pankajkishore762@gmail.com
 
 📄 Get my Resume https://drive.google.com/file/d/1XR1ZmBOM0VpYrtehxfNej3CNH1z5K3GY/view?usp=sharing
