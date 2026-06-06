@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Pankaj Kishore
 
-### 🤖 AI/ML Engineer in the Making | ☁️ Cloud Enthusiast | 📍 Bengaluru, KA
+### ☁️ Junior Infrastructure Engineer | 🤖 ML Enthusiast | 📍 Bengaluru, KA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankajkishoree/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pankajkishoree)
@@ -18,101 +18,107 @@
 
 ```python
 pankaj = {
-    "name"      : "Pankaj Kishore",
-    "degree"    : "B.Tech AI & ML @ Arka Jain University (2022-2026)",
-    "cgpa"      : 7.74,
-    "location"  : "Jamshedpur, Jharkhand, India",
-    "learning"  : ["AWS - Certified Developer Associate (in progress)"],
-    "goal"      : "Entry-level Cloud Engineer / ML Engineer",
-    "interests" : ["Machine Learning", "Computer Vision", "NLP", "Cloud"],
-    "fun_fact"  : "NCC B and C Certificate Holder"
+    "name"        : "Pankaj Kishore",
+    "degree"      : "B.Tech (CSE) @ Arka Jain University, Jamshedpur (2022–2026)",
+    "cgpa"        : 7.74,
+    "location"    : "Bengaluru, Karnataka, India",
+    "experience"  : "Junior Infrastructure Engineer @ I-Conic Solutions LLC",
+    "learning"    : ["AWS Certified Developer – Associate (in progress)", "Kubernetes"],
+    "goal"        : "Cloud / DevOps / Infrastructure Engineer",
+    "interests"   : ["Cloud Infrastructure", "DevOps", "CI/CD", "Machine Learning"],
+    "fun_fact"    : "NCC B and C Certificate Holder 🎖️"
 }
 ```
 
 ---
 
-## ☁️ Currently Learning — AWS
+## ☁️ Currently Working With — AWS & DevOps
 
-> 🔄 Actively preparing for **AWS Certified Developer – Associate**
-> to design, deploy, and manage scalable cloud applications.
+> 🔄 Hands-on with **AWS infrastructure**, **CI/CD pipelines**, **Docker**, and **Kubernetes**  
+> 📜 Actively preparing for **AWS Certified Developer – Associate**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**ML / AI**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-**Data & Tools**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
-**Cloud**
+**Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+**DevOps & CI/CD**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Programming & OS**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Databases & ML**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Customer Churn Prediction
-> Neural network trained on 10,000 credit card records — **85%+ accuracy**
+### ☁️ Cloud-Hosted Portfolio Website
+> Fully serverless, production-grade website on AWS with real-time visitor tracking
 
-- Data cleaning: encoding, feature scaling, train/test split
-- Deep learning model built with TensorFlow and Keras
+- Deployed using **AWS S3, CloudFront, Route 53, Lambda, API Gateway, and DynamoDB**
+- Serverless visitor counter with real-time monitoring via Lambda + DynamoDB
+- Configured HTTPS, CDN caching, DNS routing, and automated CI/CD via **GitHub Actions**
+- Scalable, secure, and highly available using cloud-native serverless architecture
 
-`TensorFlow` `Keras` `Scikit-learn` `Pandas` `NumPy` `Google Colab`
+`AWS S3` `CloudFront` `Route 53` `Lambda` `API Gateway` `DynamoDB` `GitHub Actions`
 
 ---
 
 ### 👁️ Real-Time Face & Eye Detection
-> Live webcam detection using classical computer vision — optimized for **low latency**
+> Live webcam detection using classical computer vision — optimized for low latency
 
-- Haarcascade classifiers for fast, accurate multi-face detection
-- Smooth real-time video stream handling
+- Built a real-time detection system using **Haarcascade classifiers** in OpenCV
+- Applied image preprocessing and optimization for performance improvement
+- Handled live video data streams efficiently
 
 `Python` `OpenCV` `NumPy` `Jupyter Notebook`
 
 ---
 
-### 🖊️ Interactive Whiteboard Application
-> Feature-rich desktop drawing app with full GUI controls
+## 💼 Experience
 
-- Freehand drawing, color picker, pen size slider, eraser
-- Resizable canvas supporting different screen sizes
-
-`Python` `Tkinter`
-
----
-
-## 💼 Experience & Internships
-
-| Period | Company | Role |
-|---|---|---|
-| Jan 2025 – Feb 2026 | I-Conic Solutions LLC | Junior Infrastructure Enginerr (Full-time) |
-| May – Jul 2025 | Innovate Intern | AI/ML Intern |
-| May – Jun 2024 | Slash Mark IT Startup | ML Intern |
+| Period | Company | Role | Type |
+|---|---|---|---|
+| Mar 2026 – May 2026 | Qubitara Technologies | DevOps Intern | Remote |
+| Jan 2025 – Feb 2026 | I-Conic Solutions LLC | Junior Infrastructure Engineer | On-Site |
+| May 2025 – Jul 2025 | Innovate Intern | AI/ML Intern | Remote |
+| May 2024 – Jun 2024 | Slash Mark IT Startup | ML Intern | Remote |
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-- ☁️ **AWS** — Ultimate AWS Certified Developer Associate
+- ☁️ **AWS** — Ultimate AWS Certified Developer Associate (Udemy)
+- 🔐 **Cisco Cybersecurity Essentials** — FutureSkills Prime (2026)
 - 🐍 **Python & AI/ML** — Certified in Python and AI/ML applications
 - 🏅 **Academic Excellence Award** — Recognized by Tata Steel & Usha Martin
 - 🎖️ **NCC B & C Certificate** — Leadership and teamwork (2022–2025)
@@ -135,7 +141,7 @@ pankaj = {
 ---
 
 <div align="center">
-  <i>"Building intelligent systems, one model at a time — and now scaling them on the cloud"</i>
+  <i>"Building resilient cloud infrastructure — one deployment at a time"</i>
   <br><br>
-  <b>Open to opportunities • Let's connect!</b>
+  <b>Open to Cloud / DevOps / Infrastructure opportunities • Let's connect!</b>
 </div>
