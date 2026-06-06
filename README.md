@@ -104,7 +104,7 @@ pankaj = {
 
 | Period | Company | Role |
 |---|---|---|
-| Jan 2025 – Feb 2026 | I-Conic Solutions | AR Caller (Full-time) |
+| Jan 2025 – Feb 2026 | I-Conic Solutions LLC | Junior Infrastructure Enginerr (Full-time) |
 | May – Jul 2025 | Innovate Intern | AI/ML Intern |
 | May – Jun 2024 | Slash Mark IT Startup | ML Intern |
 
