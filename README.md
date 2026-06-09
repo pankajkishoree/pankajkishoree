@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Pankaj Kishore
 
-### ☁️ Junior Infrastructure Engineer | 🤖 ML Enthusiast | 📍 Bengaluru, KA
+### ☁️ Junior Infrastructure Engineer | 🤖 Cloud Enthusiast | 📍 Bengaluru, KA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankajkishoree/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pankajkishoree)
